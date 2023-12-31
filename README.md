@@ -64,7 +64,7 @@ Cognitive science delves into perception, reasoning, memory, and more. This curr
   - Prerequisites: None
   - Description: The mind develops from conception right up to the end of life. In order to understand our nature and capabilities, it is important to know how the mind develops and what affects the course of this development. Main topics covered are Piaget's model of cognitive development and its critique, language acquisition, social interaction, attachment, parenting styles, and adolescent development.
 
-### Nueroscience
+### Neuroscience
 - [Stanford University - The Human Brain](https://www.youtube.com/playlist?list=PL6A08EB4EEFF3E91F)
   - Duration: 5 weeks
   - Effort: 4 hours/week
