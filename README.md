@@ -19,14 +19,14 @@ Cognitive science delves into perception, reasoning, memory, and more. This curr
 ## Core Courses
 
 ### Computer Science
-- [Harvard - Introduction to Computer Science](https://www.youtube.com/watch?v=LfaMVlDaQ24)
+- [Harvard University - Introduction to Computer Science](https://www.youtube.com/watch?v=LfaMVlDaQ24)
   - Duration: 7 weeks
   - Effort: 4 hours/week
   - Prerequisites: None
   - Description: A beginner-friendly introduction covering algorithms, data structures, and web development in various languages.
 
 ### Economics and Decision Making
-- [Yale - Game Theory](https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B)
+- [Yale University - Game Theory](https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B)
   - Duration: 7 weeks
   - Effort: 4 hours/week
   - Prerequisites: None
@@ -50,4 +50,24 @@ Cognitive science delves into perception, reasoning, memory, and more. This curr
   - Effort: 4 hours/week
   - Prerequisites: Introduction to Linguistics
   - Description: Focuses on language sentence structure theories.
+ 
+### Psychology
+- [Yale University - Introduction to psychology](https://www.youtube.com/playlist?list=PL6A08EB4EEFF3E91F)
+  - Duration: 5 weeks
+  - Effort: 4 hours/week
+  - Prerequisites: None
+  - Description: This course tries to answer and providing a comprehensive overview of the scientific study of thought and behavior.
+ 
+- [Bilkent University - Developmental Psychology](https://www.youtube.com/playlist?list=PL6A08EB4EEFF3E91F)
+  - Duration: 6 weeks
+  - Effort: 4 hours/week
+  - Prerequisites: None
+  - Description: The mind develops from conception right up to the end of life. In order to understand our nature and capabilities, it is important to know how the mind develops and what affects the course of this development. Main topics covered are Piaget's model of cognitive development and its critique, language acquisition, social interaction, attachment, parenting styles, and adolescent development.
 
+### Nueroscience
+- [Stanford University - The Human Brain](https://www.youtube.com/playlist?list=PL6A08EB4EEFF3E91F)
+  - Duration: 5 weeks
+  - Effort: 4 hours/week
+  - Prerequisites: None
+  - Description: This course surveys the core perceptual and cognitive abilities of the human mind and explores how they are implemented in the brain..
+ 
